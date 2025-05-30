@@ -1,2 +1,2 @@
-# BRLPy
-Predictive IV sweep algorithm based on Berstein, Rabinowitz, Laframboise (BRL) theory.
+BRLPy is a Python alogorithm that predicts IV curves of plasmas. A tutorial for model use and installation can be found in the thesis linked here:
+https://scholarworks.wm.edu/honorstheses/2416/. Contact: raburns@usc.edu
